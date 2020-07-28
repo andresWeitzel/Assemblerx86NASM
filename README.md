@@ -4,6 +4,7 @@ Desarrollando instrucciones, estructuras, procedimientos, etc en lenguaje ensamb
 //Tecnologias//
 Arquitectura:x86.
 Ensamblador:NASM.
+Sintaxis:Intel
 Sistema Operativo:ParrotSecutity 4.9.1.
 Editor de Texto: Geany 1.36.
 
