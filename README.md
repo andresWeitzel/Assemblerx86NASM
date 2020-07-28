@@ -2,15 +2,15 @@
 Desarrollando instrucciones, estructuras, procedimientos, etc en lenguaje ensamblador.
 
 //Tecnologias//
-Arquitectura:x86
-Ensamblador:NASM
-Sistema Operativo:ParrotSecutity 4.9.1
-Editor de Texto: Geany 1.36
+Arquitectura:x86.
+Ensamblador:NASM.
+Sistema Operativo:ParrotSecutity 4.9.1.
+Editor de Texto: Geany 1.36.
 
 
 //Instalaciones//
-sudo apt install nasm
-sudo apt install geany
+sudo apt install nasm.
+sudo apt install geany.
 
 
 
